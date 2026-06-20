@@ -1,26 +1,36 @@
-# -Salla-call-center-dashboard
+# 📊 Call Center Performance Dashboard
+
+## 📌 Project Overview
+This project is an interactive Power BI dashboard designed to analyze call center performance. It helps monitor key performance indicators (KPIs) such as handling rate, abandon rate, total calls, and monthly trends to support better business decisions.
+
+## 🛠️ Tools Used
+- Power BI
+- Microsoft Excel
+- Data Cleaning
+- Data Visualization
+
+## 📈 Dashboard Features
+- Total Calls by Agent
+- Handling Rate Analysis
+- Abandon Rate by Agent
+- Monthly Call Trends
+- Calls Offered vs Calls Abandoned
+- Interactive Filters (Month & Project)
+
+## 📊 Key KPIs
+- Total Calls
+- Handling Rate
+- Abandon Rate
+- Calls Offered
+- Calls Abandoned
 
 
-## Project Overview
-🔹 Key Metrics Included:
 
-Total Calls
-Handling Rate
-Abandonment Rate
-Average Speed of Answer (ASA)
-Forecasted Calls vs Actual Calls
-Calls Offered & Handled Analysis
-Agent Performance Analysis
-Monthly and Daily Trends
-Interactive Filters for Project & Month
-
-🎯 الهدف من الداشبورد هو توفير رؤية واضحة وشاملة لمؤشرات الأداء الرئيسية (KPIs) لمساعدة الإدارة في اتخاذ قرارات مبنية على البيانات وتحسين تجربة العملاء.
-
-🛠️ Tools Used:
-
-Power BI
-DAX Measures
-Data Modeling
-Interactive Visualizations
-
+## 🎯 Skills Demonstrated
+- Data Cleaning
+- Data Modeling
+- DAX Measures
+- Interactive Dashboards
+- Business Intelligence
+- Data Analysis
 
