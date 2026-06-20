@@ -16,7 +16,5 @@ This dashboard analyzes call center performance and operational KPIs.
 - ASA
 - Abandon Rate
 
-## Dashboard Preview
 
-(Add dashboard screenshots here)
 
